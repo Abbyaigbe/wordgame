@@ -31,6 +31,15 @@
     flex-direction: column;
     top: 0;
   }
+  h2{
+    font-size: 14px;
+    text-align: justify;
+    font-weight: 200px;
+    color: #333;
+    line-height: 1.5px;
+    font-style: italic;
+    font-family: sans-serif;
+  }
   #start {
     font-size: 1.2em;
     padding: 1em 3em;
